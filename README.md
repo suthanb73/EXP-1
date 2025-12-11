@@ -69,11 +69,12 @@ Tabulation:
 
 a.   KVL:
  
-![kvl tab](https://github.com/user-attachments/assets/1bb5a328-3fa3-48c3-be57-6e4076008f65)
+![eee 1 exp tab](https://github.com/user-attachments/assets/39bb106f-a745-497a-b969-c957be8246b7)
 
 
 b.  KCL:
-![kcl tab](https://github.com/user-attachments/assets/fa6f82c6-0d74-4b23-8676-ee57cca936b5)
+
+![exp 1 2 tab](https://github.com/user-attachments/assets/82a185b0-96b5-476e-b501-33d4d1cc8786)
 
 
 
